@@ -1,0 +1,21 @@
+# Tic-Tac-Toe AI 🎮🤖
+
+This is a beginner AI project using Python.
+
+## 💡 About
+- Human vs Computer (AI)
+- The AI uses the **Minimax Algorithm**
+- Language: Python
+- Simple terminal-based game
+
+## 🧠 AI Logic
+
+The computer uses **Minimax**, a decision-making algorithm that:
+- Tries every move
+- Picks the best one to win or block the opponent
+
+## ▶️ How to Run
+- Save the code as `tic_tac_toe_ai.py`
+- Run it using:
+  ```bash
+  python tic_tac_toe_ai.py
